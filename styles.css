@@ -256,7 +256,7 @@ nav{
     height: 1000px;
     text-align: center;
     
-    margin-top: 200px;
+    margin-top: 350px;
     margin-bottom: 100px;
     
     
@@ -336,7 +336,7 @@ nav{
 
 .images div{
     width: 400px;
-    height: 400px;
+    height: 490px;
     background: rgb(243, 237, 225);
     text-align: center;
     border-top-left-radius: 5%;
@@ -344,6 +344,11 @@ nav{
     
     
     
+}
+
+.images .user{
+    font-size: 18px;
+    font-family: 'Indie Flower', cursive;
 }
 
 
