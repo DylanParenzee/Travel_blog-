@@ -389,7 +389,10 @@ nav{
     color: white;
 }
 
+.images div:hover{
+    box-shadow: 0px 8px 28px ;
 
+}
 
 
 /* -----------footer------------ */
@@ -435,7 +438,9 @@ nav{
 
 }
 
-
+.footer-col .number{
+    font-size: 25px;
+}
 
 .footer-col ul li {
     
@@ -455,10 +460,11 @@ nav{
 
 
 .footer-col #email, #name{
-    margin: auto 10px;
+    
     height: 45px;
     border-radius: 5px;
     font-size: 15px;
+    text-align: center;
 }
 
 
@@ -468,6 +474,9 @@ nav{
     color: white;
     text-decoration: none;
     font-size: 16px;
+    width: 70%;
+    position: relative;
+    left: 55px;
     
 }
 
